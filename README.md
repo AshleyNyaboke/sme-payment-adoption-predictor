@@ -13,7 +13,7 @@ machine learning to predict which SMEs are most likely to adopt digital
 paybill payments — helping financial institutions like Absa and Airtel 
 target the right businesses with the right interventions at the right time.
 
-**Live Dashboard:** [Click Here To Try It]("https://styling-uncapped-flaxseed.ngrok-free.dev")
+**Live Dashboard:** ("https://styling-uncapped-flaxseed.ngrok-free.dev")
 
 
 
@@ -49,11 +49,11 @@ marketing teams.
 
 The top drivers of SME digital payment adoption discovered by the model:
 
-1. 📱 **Mobile Money Frequency** — strongest predictor by far
-2. 📲 **Owns Smartphone** — digital payments need a digital device
-3. 🏦 **Has Bank Account** — already in the financial system
-4. 🏙️ **Urban Location** — city businesses adopt faster
-5. 📍 **Distance to Nearest Bank** — further away = more motivation to go digital
+1.  **Mobile Money Frequency** — strongest predictor by far
+2.  **Owns Smartphone** — digital payments need a digital device
+3.  **Has Bank Account** — already in the financial system
+4.  **Urban Location** — city businesses adopt faster
+5.  **Distance to Nearest Bank** — further away = more motivation to go digital
 
 ---
 
