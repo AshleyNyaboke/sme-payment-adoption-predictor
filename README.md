@@ -29,19 +29,28 @@ expensive — this model helps both companies prioritize the highest
 probability adopters, saving marketing budget and improving conversion rates.
 
 ---
-
-## 📊 Model Performance
+ 📊 Model Performance
 
 | Model | Accuracy |
 |---|---|
 | Logistic Regression | 86.00% |
-| **Random Forest** | **87.75% ✅ Best Model** |
+| **Random Forest** | **89.00% ✅ Best Model** |
+
+### Detailed Scorecard (Random Forest)
+
+| Metric | Non-Adopters | Adopters |
+|---|---|---|
+| Precision | 86% | 90% |
+| Recall | 74% | 95% |
+| F1-Score | 79% | 93% |
 
 ### Key Finding
 Mobile money transaction frequency is the single strongest predictor 
 of SME digital payment adoption — stronger than revenue, business age, 
-or location. This is a directly actionable insight for Absa and Airtel's 
-marketing teams.
+or location. When the model predicts an SME will adopt, it is right 
+90% of the time, and it catches 95% of all actual adopters. This is 
+a directly actionable insight for Absa and Airtel's marketing teams.
+
 
 ---
 
