@@ -13,7 +13,7 @@ machine learning to predict which SMEs are most likely to adopt digital
 paybill payments — helping financial institutions like Absa and Airtel 
 target the right businesses with the right interventions at the right time.
 
-**Live Dashboard:** ("https://styling-uncapped-flaxseed.ngrok-free.dev")
+**Live Dashboard:** ("https://sme-payment-adoption-predictor-g2blvm6ahp7pde42wmujyq.streamlit.app/")
 
 
 
